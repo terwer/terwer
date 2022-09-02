@@ -6,6 +6,11 @@
 
 # build
 .hugo_build.lock
+resources/_gen
+public
 
 # Obsidian
 content/.obsidian
+
+# Vercel
+.vercel
