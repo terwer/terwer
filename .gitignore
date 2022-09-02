@@ -1,0 +1,11 @@
+# JetBrains
+.idea
+
+# Mac
+.DS_Store
+
+# build
+.hugo_build.lock
+
+# Obsidian
+content/.obsidian
